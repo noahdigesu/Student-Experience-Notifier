@@ -1,0 +1,15 @@
+{
+	"name": "student-experience",
+	"version": "1.0.0",
+	"description": "Check for available spots @Student Experience every two minutes.",
+	"main": "index.js",
+	"author": "Noah Di Gesu",
+	"license": "GNU GPLv3",
+	"dependencies": {
+		"chromedriver": "^101.0.0",
+		"dotenv": "^16.0.1",
+		"node-fetch": "^3.2.5",
+		"node-fetch-commonjs": "^3.1.1",
+		"webdriverio": "^7.19.7"
+	}
+}
